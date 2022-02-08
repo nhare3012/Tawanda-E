@@ -1,0 +1,17 @@
+.homescreen__title{
+    font-size: 2.5rem;
+    color: #171717;
+    margin-bottom: 1rem;
+    margin-left: 8px;
+    text-align:center
+}
+
+.t{
+    text-align: center;
+}
+
+.info__button{
+    text-align:center;
+    margin-top: 40%;
+
+}
